@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using MvcStartApp.Models.Db;
 using SocialNetwork.Models.Db;
 
 namespace SocialNetwork.Models
@@ -9,6 +10,7 @@ namespace SocialNetwork.Models
 
         public DbSet<UserPost> UserPosts { get; set; }
 
+        public DbSet<Request> Requests { get; set; }
 
         public SocNetContext(DbContextOptions<SocNetContext> options) : base(options)
         {

@@ -6,7 +6,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using MvcStartApp.Middlewares;
 using SocialNetwork.Models;
+using SocialNetwork.Models.Repository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,6 +32,8 @@ namespace SocialNetwork
             string connection = Configuration.GetConnectionString("DefaultConnection");
             services.AddDbContext<SocNetContext>(options => options.UseSqlServer(connection), ServiceLifetime.Singleton);
             services.AddControllersWithViews();
+            services.AddTransient<ISocNetRepository, SocNetRepository>();
+            services.AddTransient<IRequestRepository, RequestRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -47,10 +51,10 @@ namespace SocialNetwork
             }
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-
             app.UseRouting();
 
             app.UseAuthorization();
+            app.UseMiddleware<LoggingMiddleware>();
 
             app.UseEndpoints(endpoints =>
             {
