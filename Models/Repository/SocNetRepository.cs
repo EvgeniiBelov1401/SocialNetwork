@@ -15,8 +15,8 @@ namespace SocialNetwork.Models.Repository
         }
         public async Task AddUser(User user)
         {
-            user.JoinDate = DateTime.Now;
-            user.Id = Guid.NewGuid();
+            //user.JoinDate = DateTime.Now;
+            //user.Id = Guid.NewGuid();
 
             var entry = _context.Entry(user);
             if (entry.State == EntityState.Detached)

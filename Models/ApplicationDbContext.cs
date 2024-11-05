@@ -7,7 +7,6 @@ namespace SocialNetwork.Models
 {
     public sealed class ApplicationDbContext : IdentityDbContext<User>
     {
-        //public DbSet<User> Users { get; set; }
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
             Database.EnsureCreated();
