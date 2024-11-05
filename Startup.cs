@@ -14,8 +14,11 @@ using SocialNetwork.Models.Repository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Threading.Tasks;
 using static System.Net.Mime.MediaTypeNames;
+using AutoMapper;
+
 
 namespace SocialNetwork
 {
@@ -44,6 +47,9 @@ namespace SocialNetwork
             services.AddControllersWithViews();
             services.AddTransient<ISocNetRepository, SocNetRepository>();
             services.AddTransient<IRequestRepository, RequestRepository>();
+
+            var assembly = Assembly.GetAssembly(typeof(MappingProfile));
+            services.AddAutoMapper(assembly);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
