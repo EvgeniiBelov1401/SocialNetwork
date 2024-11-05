@@ -7,9 +7,9 @@ namespace SocialNetwork.Models.Repository
 {
     public class SocNetRepository : ISocNetRepository
     {
-        private readonly SocNetContext _context;
+        private readonly ApplicationDbContext _context;
 
-        public SocNetRepository(SocNetContext context)
+        public SocNetRepository(ApplicationDbContext context)
         {
             _context = context;
         }

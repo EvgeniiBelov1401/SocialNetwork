@@ -3,9 +3,7 @@ using System.Threading.Tasks;
 using System;
 using MvcStartApp.Models.Db;
 using Microsoft.EntityFrameworkCore;
-using MvcStartApp.Models;
 using SocialNetwork.Models.Repository;
-
 
 namespace MvcStartApp.Middlewares
 {
