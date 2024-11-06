@@ -5,7 +5,7 @@ namespace SocialNetwork.Models.Db
 {
     public class User : IdentityUser
     {
-        public string FirstName { get; set; }
+        public override string UserName { get; set; }
 
         public string LastName { get; set; }
 

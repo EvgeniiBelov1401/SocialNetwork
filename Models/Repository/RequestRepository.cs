@@ -19,7 +19,7 @@ namespace SocialNetwork.Models.Repository
             await _context.SaveChangesAsync();
         }
 
-        public async Task<Request[]> GetLog()
+        public Task<Request[]> GetLog()
         {
             //return await _context.Requests.ToArrayAsync();
             throw new System.Exception();
