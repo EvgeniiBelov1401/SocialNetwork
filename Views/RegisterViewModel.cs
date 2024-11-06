@@ -26,7 +26,7 @@ namespace SocialNetwork.Views
 
         [Required]
         [Display(Name = "Месяц")]
-        public int Month { get; set; }
+        public Months Month { get; set; }
 
         [Required]
         [DataType(DataType.Password)]
