@@ -1,0 +1,672 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\models\\db\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:models\\db\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\wwwroot\\css\\main-page.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:wwwroot\\css\\main-page.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\views\\shared\\_searchlayoutpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:views\\shared\\_searchlayoutpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\views\\shared\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:views\\shared\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\views\\shared\\registerpart2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:views\\shared\\registerpart2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\views\\shared\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:views\\shared\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\controllers\\accountmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:controllers\\accountmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\views\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:views\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\views\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:views\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\models\\repository\\requestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:models\\repository\\requestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\views\\months.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:views\\months.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\models\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:models\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\models\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:models\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\models\\repository\\socnetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:models\\repository\\socnetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\models\\repository\\isocnetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:models\\repository\\isocnetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|d:\\programming\\skillfactory\\c#_projects\\module35\\socialnetwork\\socialnetwork\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{561A6314-9996-412A-8C42-68741EF6749F}|SocialNetwork.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 261,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 314,
+          "SelectedChildIndex": 57,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_SearchLayoutPartial.cshtml",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\Shared\\_SearchLayoutPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_SearchLayoutPartial.cshtml",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\Shared\\_SearchLayoutPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_SearchLayoutPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T08:41:28.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Months.cs",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\Months.cs",
+              "RelativeDocumentMoniker": "Views\\Months.cs",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\Months.cs",
+              "RelativeToolTip": "Views\\Months.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:11:40.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\Shared\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Login.cshtml",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\Shared\\Login.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T09:41:59.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Views\\LoginViewModel.cs",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\LoginViewModel.cs",
+              "RelativeToolTip": "Views\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:21:22.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountManagerController.cs",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Controllers\\AccountManagerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountManagerController.cs",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Controllers\\AccountManagerController.cs",
+              "RelativeToolTip": "Controllers\\AccountManagerController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:15:01.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AgIAALAAAAAAAAAAAAAswPIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-06T07:49:06.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MappingProfile.cs",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\MappingProfile.cs",
+              "RelativeToolTip": "MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:45:41.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Models\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repository\\IRepository.cs",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Models\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Models\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:35:45.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Models\\Repository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Models\\Repository\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Models\\Repository\\IUnitOfWork.cs",
+              "RelativeToolTip": "Models\\Repository\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:33:35.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:24:58.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegisterController.cs",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Controllers\\RegisterController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:23:59.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterPart2.cshtml",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\Shared\\RegisterPart2.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\RegisterPart2.cshtml",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\Shared\\RegisterPart2.cshtml",
+              "RelativeToolTip": "Views\\Shared\\RegisterPart2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T13:00:17.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\Shared\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Register.cshtml",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\Shared\\Register.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Register.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T12:45:51.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Views\\RegisterViewModel.cs",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\RegisterViewModel.cs",
+              "RelativeToolTip": "Views\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:39:55.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T12:12:14.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T12:12:11.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T12:12:06.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T12:12:03.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T12:06:19.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-05T12:04:25.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main-page.css",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\wwwroot\\css\\main-page.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\main-page.css",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\wwwroot\\css\\main-page.css",
+              "RelativeToolTip": "wwwroot\\css\\main-page.css",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-05T12:04:18.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RequestRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Models\\Repository\\RequestRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repository\\RequestRepository.cs",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Models\\Repository\\RequestRepository.cs",
+              "RelativeToolTip": "Models\\Repository\\RequestRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:35:48.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T11:01:34.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T10:59:44.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Middlewares\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlewares\\LoggingMiddleware.cs",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Middlewares\\LoggingMiddleware.cs",
+              "RelativeToolTip": "Middlewares\\LoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:37:37.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SocNetRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Models\\Repository\\SocNetRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repository\\SocNetRepository.cs",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Models\\Repository\\SocNetRepository.cs",
+              "RelativeToolTip": "Models\\Repository\\SocNetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:16:42.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ISocNetRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Models\\Repository\\ISocNetRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repository\\ISocNetRepository.cs",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Models\\Repository\\ISocNetRepository.cs",
+              "RelativeToolTip": "Models\\Repository\\ISocNetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:15:45.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T09:40:40.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:24:33.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA5wC8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:28:40.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T08:26:31.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T08:26:27.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:22:46.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Models\\Db\\User.cs",
+              "RelativeDocumentMoniker": "Models\\Db\\User.cs",
+              "ToolTip": "D:\\Programming\\Skillfactory\\C#_projects\\Module35\\SocialNetwork\\SocialNetwork\\Models\\Db\\User.cs",
+              "RelativeToolTip": "Models\\Db\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:12:47.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
