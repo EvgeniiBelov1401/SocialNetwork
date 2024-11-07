@@ -28,6 +28,12 @@ namespace SocialNetwork.Controllers
             return View("Home/Login");
         }
 
+        [HttpGet]
+        public IActionResult Login(string returnUrl = null)
+        {
+            return View(new LoginViewModel { ReturnUrl = returnUrl });
+        }
+
         [Route("Login")]
         [HttpPost]
         [ValidateAntiForgeryToken]
